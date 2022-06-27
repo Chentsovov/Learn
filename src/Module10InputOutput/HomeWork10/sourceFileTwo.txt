@@ -1,0 +1,5 @@
+
+plague 111
+starvation 222
+war 333
+ukupnik 444
